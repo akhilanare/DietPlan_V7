@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="4dp"
+    android:layout_marginBottom="4dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_title_bmiHistory_adapter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/app_name"
+            android:textColor="@color/textView_bmiHistory_adapter"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/cardView_delete_bmiHistory_adapter"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardView_delete_bmiHistory_adapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            app:cardElevation="2dp"
+            app:cardUseCompatPadding="true"
+            app:cardBackgroundColor="@color/red"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/view_gender_bmiHistory_adapter">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="@string/delete"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <View
+            android:id="@+id/view_gender_bmiHistory_adapter"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_title_bmiHistory_adapter" />
+
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_titleGender_bmiHistory_adapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/gender"
+            android:textColor="@color/textView_bmiHistory_adapter"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view_gender_bmiHistory_adapter" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_gender_bmiHistory_adapter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="@string/gender"
+            android:textColor="@color/textView_sub_bmiHistory_adapter"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_titleGender_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView_titleGender_bmiHistory_adapter"
+            app:layout_constraintTop_toTopOf="@+id/textView_titleGender_bmiHistory_adapter" />
+
+        <View
+            android:id="@+id/view_score_bmiHistory_adapter"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_titleGender_bmiHistory_adapter" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_titleScore_bmiHistory_adapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/your_bmi_score"
+            android:textColor="@color/textView_bmiHistory_adapter"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view_score_bmiHistory_adapter" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_score_bmiHistory_adapter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="@string/gender"
+            android:textColor="@color/textView_sub_bmiHistory_adapter"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_titleScore_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView_titleScore_bmiHistory_adapter"
+            app:layout_constraintTop_toTopOf="@+id/textView_titleScore_bmiHistory_adapter" />
+
+        <View
+            android:id="@+id/view_status_bmiHistory_adapter"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/view_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_titleScore_bmiHistory_adapter" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_titleStatus_bmiHistory_adapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/status"
+            android:textColor="@color/textView_bmiHistory_adapter"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view_status_bmiHistory_adapter" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/textView_status_bmiHistory_adapter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:text="@string/status"
+            android:textColor="@color/textView_sub_bmiHistory_adapter"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_titleStatus_bmiHistory_adapter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView_titleStatus_bmiHistory_adapter"
+            app:layout_constraintTop_toTopOf="@+id/textView_titleStatus_bmiHistory_adapter" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

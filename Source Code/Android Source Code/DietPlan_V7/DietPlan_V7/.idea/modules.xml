@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DietPlan_V7.iml" filepath="$PROJECT_DIR$/.idea/modules/DietPlan_V7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/DietPlan_V7.SmoothCheckBox-master.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DietPlan_V7.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/DietPlan_V7.nativetemplates.unitTest.iml" />
+    </modules>
+  </component>
+</project>

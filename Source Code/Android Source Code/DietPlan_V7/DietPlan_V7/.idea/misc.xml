@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_about_us.xml" value="0.4" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_contact_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_faq.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_fp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/adview_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/adview_category_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/bmi_calculator_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/bmi_history_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/bmi_history_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/category_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/category_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/change_password_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/custom_controls_exo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/dialog_bmi_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/dialog_update_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/diet_plan_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/diet_plan_detail_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/diet_plan_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/edit_profile_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/favourite_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/fitness_video_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/fitness_video_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/home_cat_adapter.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/home_diet_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/home_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/home_slider_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/home_video_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/layout_ads.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/layout_loading_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/layout_native_ad_admob.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/layout_native_ad_startapp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/login_line.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/native_ad_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/no_data_found.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/not_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/pro_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/profile_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/layout/setting_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/menu/search_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rahul Nare/Downloads/codecanyon-7Jip5yAb-diet-plan/Diet Plan Package V7/Source Code/Android Source Code/DietPlan_V7/DietPlan_V7/app/src/main/res/menu/share_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

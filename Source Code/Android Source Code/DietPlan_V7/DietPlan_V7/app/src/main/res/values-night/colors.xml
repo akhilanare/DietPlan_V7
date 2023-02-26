@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="toolbar">#000000</color>
+    <color name="drawer_item">#FFFFFF</color>
+    <color name="drawer_item_selected">#22a640</color>
+    <color name="nav_bg">#222222</color>
+    <color name="app_background">#000000</color>
+
+    <color name="textView_login">#FFFFFF</color>
+    <color name="textView_sub_login">#CCFFFFFF</color>
+    <color name="image_login">#FFFFFF</color>
+    <color name="view_login">#FFFFFF</color>
+    <color name="skip_button_login">#FFFFFF</color>
+    <color name="check_box_bg_login">#FFFFFF</color>
+    <color name="check_box_check_bg_login">#FFFFFF</color>
+    <color name="check_box_tick_login">#22a640</color>
+    <color name="check_box_circle_login">#22a640</color>
+    <color name="checkBox_terms_login">#FFFFFF</color>
+    <color name="checkBox_select_terms_login">#22a640</color>
+    <color name="button_google_line">#EA4235</color>
+    <color name="textView_fp">#FFFFFF</color>
+    <color name="imageView_fp">#FFFFFF</color>
+
+    <color name="view_pro">#222222</color>
+    <color name="view_line_pro">#BFFFFFFF</color>
+    <color name="textView_pro_image">#FFFFFF</color>
+    <color name="bg_image_pro">#222222</color>
+    <color name="imageView_border_pro">#BFFFFFFF</color>
+    <color name="textView_userName_pro">#FFFFFF</color>
+    <color name="textView_pro">#FFFFFF</color>
+    <color name="textView_sub_pro">#FFFFFF</color>
+    <color name="editText_pro">#FFFFFF</color>
+    <color name="textView_hint_pro">#FFFFFF</color>
+    <color name="textView_hint_layout_pro">#22a640</color>
+    <color name="textView_box_color">#99FFFFFF</color>
+    <color name="textView_box_select_color">#22a640</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">
+        @color/textView_box_color
+    </color>
+
+    <color name="textView_home">#FFFFFF</color>
+    <color name="image_editText_home">#FFFFFF</color>
+    <color name="editText_home">#FFFFFF</color>
+    <color name="editText_hint_home">#BFFFFFFF</color>
+    <color name="cursor_editText_home">#FFFFFF</color>
+    <color name="textView_select_text_home">#4A6865</color>
+    <color name="card_search_bg_home">#303030</color>
+    <color name="con_search_bg_home">#000000</color>
+    <color name="textView_home_cat_adapter">#FFFFFF</color>
+
+    <color name="textView_fitnessVideo_adapter">#FFFFFF</color>
+
+    <color name="textView_diet_plan_detail">#FFFFFF</color>
+
+    <color name="tab_bg_favourite">#000000</color>
+    <color name="tab_text_favourite">#FFFFFF</color>
+    <color name="tab_indicator_favourite">#FFFFFF</color>
+
+    <color name="view_dialog_bmi">#B2B2B2</color>
+    <color name="select_gender_bmi">#FF6711</color>
+    <color name="UnSelect_gender_bmi">#222222</color>
+    <color name="textView_bmi">#FFFFFF</color>
+    <color name="header_dialog_bmi">#222222</color>
+    <color name="textView_title_dialog_bmi">#FFFFFF</color>
+    <color name="textView_subTitle_dialog_bmi">#FF6711</color>
+    <color name="view_bmiHistory_adapter">#BFFFFFFF</color>
+    <color name="textView_bmiHistory_adapter">#FFFFFF</color>
+    <color name="textView_sub_bmiHistory_adapter">#BFFFFFFF</color>
+
+    <color name="textView_setting">#FFFFFF</color>
+    <color name="view_setting">#BFFFFFFF</color>
+    <color name="switch_thumb_unSelect">#ADADAD</color>
+    <color name="textView_them">#FFFFFF</color>
+    <color name="card_bg_them">#424040</color>
+    <color name="textView_contactUs">#FFFFFF</color>
+    <color name="about_us_Text">#FFFFFF</color>
+    <color name="about_us_SubText">#BFFFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#59C570</color>
+    <color name="yellow">#F5AE14</color>
+    <color name="black">#000000</color>
+
+    <color name="dialog_text">#FFFFFF</color>
+    <color name="dialog_text_button">#FFFFFF</color>
+    <color name="textView_dialog_update">#FFFFFF</color>
+    <color name="textView_noData">#FFFFFF</color>
+    <color name="progressbar_style">#FFFFFF</color>
+    <color name="progressbar_splash">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="cursor_editText">#FFFFFF</color>
+    <color name="textView_select_text">#4A6865</color>
+    <color name="textView_app_color">#22a640</color>
+    <color name="image_color">#FFFFFF</color>
+    <color name="line_all_spinner">#99FFFFFF</color>
+    <color name="button_bg">#22a640</color>
+    <color name="notification_color">#22a640</color>
+
+</resources>

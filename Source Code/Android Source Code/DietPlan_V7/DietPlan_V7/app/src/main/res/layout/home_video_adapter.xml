@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView_homeVideo_adapter"
+    android:layout_width="160dp"
+    android:layout_height="100dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true">
+
+    <ImageView
+        android:id="@+id/imageView_homeVideo_adapter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/place_holder"
+        android:contentDescription="@string/app_name" />
+
+</com.google.android.material.card.MaterialCardView>

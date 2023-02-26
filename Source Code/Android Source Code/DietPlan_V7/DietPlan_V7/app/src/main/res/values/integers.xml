@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--set maximum an minimum value height bmi calculator-->
+
+    <integer name="maxValue_height">400</integer>
+    <integer name="minValue_height">40</integer>
+
+    <!--set maximum an minimum value height bmi calculator-->
+
+    <!--set maximum an minimum value weight bmi calculator-->
+
+    <integer name="maxValue_weight">200</integer>
+    <integer name="minValue_weight">0</integer>
+
+    <!--set maximum an minimum value weight bmi calculator-->
+</resources>
